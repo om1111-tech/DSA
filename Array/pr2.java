@@ -1,5 +1,5 @@
 /******************************************************************************
-1. Find the Second Largest Element in an Array
+2. Find the Second Largest Element in an Array
 *******************************************************************************/
 
 public class Main
